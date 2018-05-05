@@ -1,0 +1,50 @@
+﻿@model List<Sistema_MVC_Ticona.Models.Persona>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="page-header">
+    <a href="~/Persona/AgregarEditar/"
+       class="btn btn-default pull-rigth">Nueva Persona</a>
+    Persona
+</h2>
+@using (Html.BeginForm("Index", "Persona", FormMethod.Post, new { criterio = "frm-buscar" }))
+{
+    <div class="text-left">
+        @Html.Label("Buscar: ")
+        @Html.TextBox("Criterio")
+        <button type="submit" class="btn btn-info">Buscar</button>
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width:50px">Id</th>
+            <th style="width:50px">Nombre</th>
+            <th style="width:100px">Apellido</th>
+            <th style="width:100px">E-mail</th>
+            <th style="width:70px">Estado</th>
+            <th style="width:250px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <th>@(m.persona_id)</th>
+                <th>@(m.nombre)</th>
+                <th>@(m.apellido)</th>
+                <th>@(m.email)</th>
+                <th>@(m.estado == "A" ? "Activo" : "Inactivo")</th>
+
+                <th style="align-content:center">
+                    <a href="~/Persona/Ver/@m.persona_id" class="btn btn-xs btn-warning">Detalle</a>
+                    <a href="~/Persona/AgregarEditar/@m.persona_id" class="btn btn-xs btn-primary">Modificar</a>
+                    <a href="~/Persona/Eliminar/@m.persona_id" class="btn btn-xs btn-danger"
+                       onclick="return confirm('¿Esta Seguro que desea eliminar el registro?');">Eliminar</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,35 @@
+﻿@model Sistema_MVC_Ticona.Models.Documento
+@{
+    ViewBag.Title = "Ver";
+}
+
+<h2>Ver</h2>
+<ol class="breadcrumb">
+    <li><a href="~/Categoria/Index">Documento</a></li>
+    <li class="active">@Model.nombre</li>
+</ol>
+
+<div class="panel panel_default">
+    <div class="panel-heading">
+        Informacion de la Documento
+    </div>
+    <div class="panel-body">
+        <dl class="dl-horizontal">
+            <dt>ID</dt>
+            <dd>@Model.documento_id</dd>
+            <dt>Nombre</dt>
+            <dd>@Model.nombre</dd>
+            <dt>Descripcion</dt>
+            <dd>@Model.descripcion</dd>
+            <dt>Extension</dt>
+            <dd>@Model.extension</dd>
+            <dt>Tamaño</dt>
+            <dd>@Model.tamanio</dd>
+            <dt>Tipo</dt>
+            <dd>@Model.tipo</dd>
+            <dt>Estado</dt>
+            <dd>@(Model.estado == ("A") ? "Activo" : "Inactivo")</dd>
+        </dl>
+    </div>
+</div>
+

@@ -1,0 +1,33 @@
+﻿@model Sistema_MVC_Ticona.Models.Usuario
+@{
+    ViewBag.Title = "Ver";
+}
+
+<h2>Ver</h2>
+<ol class="breadcrumb">
+    <li><a href="~/Usuario/Index">Usuario</a></li>
+    <li class="active">@Model.usuario1</li>
+</ol>
+
+<div class="panel panel_default">
+    <div class="panel-heading">
+        Informacion de la Usuario
+    </div>
+    <div class="panel-body">
+        <dl class="dl-horizontal">
+            <dt>ID</dt>
+            <dd>@Model.usuario_id</dd>
+            <dt>ID persona</dt>
+            <dd>@Model.Persona.persona_id</dd>
+            <dt>Apellido</dt>
+            <dd>@Model.Persona.apellido</dd>
+            <dt>Usuario</dt>
+            <dd>@Model.usuario1</dd>
+            <dt>Nivel</dt>
+            <dd>@(Model.nivel)</dd>
+            <dt>Estado</dt>
+            <dd>@(Model.estado == ("A") ? "Activo" : "Inactivo")</dd>
+        </dl>
+    </div>
+</div>
+

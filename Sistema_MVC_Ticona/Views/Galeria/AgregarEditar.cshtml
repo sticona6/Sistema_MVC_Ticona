@@ -1,0 +1,69 @@
+﻿@model Sistema_MVC_Ticona.Models.Galeria
+@{
+    ViewBag.Title = (Model.galeria_id > 0 ? Model.nombre : "Nuevo registro");
+    List<Sistema_MVC_Ticona.Models.Categoria> categoria1 = (List<Sistema_MVC_Ticona.Models.Categoria>)ViewBag.Categoria1;
+}
+
+<h2>AgregarEditar</h2>
+
+<ol class="breadcrumb">
+    <li><a href="~/Galeria">Galeria</a></li>
+    <li class="active">@(Model.galeria_id > 0 ? Model.nombre : "Nuevo resgistro")</li>
+</ol>
+@using (Html.BeginForm("Guardar", "Galeria", FormMethod.Post, new { id = "frm-galeria" }))
+{
+    @Html.HiddenFor(x => x.galeria_id)
+    <div class="panel panel-default">
+        <div class="panel-heading">Informacion de la Galeria</div>
+        <div class="panel-body">
+            <div class="form-group">
+                @Html.Label("Id:")
+                @Html.TextBoxFor(x => x.galeria_id, new { @class = "form-control", disabled = true })
+            </div>
+            <div class="form-group">
+                @Html.Label("ID Categoria:")
+                <select name="categoria_id" class="form-control">
+                    <option @(Model.categoria_id.Equals("") ? "Selected" : "") value="">-Seleccione-</option>
+                    @foreach (var c in categoria1)
+                    {
+                        <option @(Model.categoria_id.Equals(c.categoria_id) ? "Selected" : "") value="@c.categoria_id" class="">@c.nombre</option>
+                        @Html.ValidationMessageFor(x => x.categoria_id, null, new { @class = "label label-danger" })
+                    }
+                </select>
+                @Html.ValidationMessageFor(x => x.categoria_id, null, new { @class = "label label-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Nombre:")
+                @Html.TextBoxFor(x => x.nombre, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.nombre, null, new { @class = "label label-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Descripción:")
+                @Html.TextBoxFor(x => x.descripcion, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.descripcion, null, new { @class = "label label-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("thumbail:")
+                @Html.TextBoxFor(x => x.thumbail, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.thumbail, null, new { @class = "label label-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("imagen:")
+                @Html.TextBoxFor(x => x.imagen, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.imagen, null, new { @class = "label label-danger" })
+            </div>
+            <div class="form-group">
+                @Html.Label("Estado:")
+                <br />
+                @Html.RadioButtonFor(x => x.estado, "A")<span> Activo</span>
+                @Html.RadioButtonFor(x => x.estado, "I")<span> Inactivo</span>
+                @Html.ValidationMessageFor(x => x.estado, null, new { @class = "label label-danger" })
+            </div>
+
+        </div>
+    </div>
+    <div class="text-right">
+        <button type="submit" class="btn btn-primary">Grabar</button>
+        <a href="~/Galeria" class="btn btn-danger">Cancelar</a>
+    </div>
+}

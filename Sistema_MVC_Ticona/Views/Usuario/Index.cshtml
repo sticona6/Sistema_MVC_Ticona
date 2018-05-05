@@ -1,0 +1,49 @@
+﻿@model List<Sistema_MVC_Ticona.Models.Usuario>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="page-header">Mantenimiento Usuario
+    <a href="~/Usuario/AgregarEditar/"
+       class="btn btn-default pull-rigth">Nueva Usuario</a>
+</h2>
+@*@using (Html.BeginForm("Index", "Usuario", FormMethod.Post, new { criterio = "frm-buscar" }))
+{
+    <div class="text-left">
+        @Html.Label("Buscar: ")
+        @Html.TextBox("Criterio")
+        <button type="submit" class="btn btn-info">Buscar</button>
+    </div>
+}*@
+<table class="table table-striped table-bordered" id="datatable">
+    <thead>
+        <tr>
+            <th style="width:50px">Id</th>
+            <th style="width:50px">Apellido</th>
+            <th style="width:50px">Usuario</th>
+            <th style="width:50px">nivel</th>
+            <th style="width:70px">Estado</th>
+            <th style="width:250px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <th>@(m.usuario_id)</th>
+                <th>@(m.Persona.apellido+", "+m.Persona.nombre)</th>
+                <th>@(m.usuario1)</th>
+                <th>@(m.nivel)</th>
+                <th>@(m.estado == "A" ? "Activo" : "Inactivo")</th>
+
+                <th style="align-content:center">
+                    <a href="~/Usuario/Ver/@m.usuario_id" class="btn btn-xs btn-warning">Detalle</a>
+                    <a href="~/Usuario/AgregarEditar/@m.usuario_id" class="btn btn-xs btn-primary">Modificar</a>
+                    <a href="~/Usuario/Eliminar/@m.usuario_id" class="btn btn-xs btn-danger"
+                       onclick="return confirm('¿Esta Seguro que desea eliminar el registro?');">Eliminar</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
+

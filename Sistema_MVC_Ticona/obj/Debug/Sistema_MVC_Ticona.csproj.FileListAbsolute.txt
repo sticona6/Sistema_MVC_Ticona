@@ -1,0 +1,228 @@
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe.config
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.rsp
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.exe
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.rsp
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.AppContext.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Collections.Immutable.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe.config
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.rsp
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe.config
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll.config
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.pdb
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.Web.Infrastructure.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Razor.resources.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.resources.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Deployment.resources.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Razor.resources.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Helpers.resources.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Mvc.resources.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.csprojResolveAssemblyReference.cache
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.pdb
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.dll
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.xml
+c:\users\depis01\documents\visual studio 2017\Projects\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe.config
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.rsp
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.exe
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.rsp
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.AppContext.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Collections.Immutable.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Reflection.Metadata.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe.config
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.rsp
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe.config
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll.config
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.pdb
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.Web.Infrastructure.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.xml
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Razor.resources.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.resources.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Deployment.resources.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Razor.resources.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Helpers.resources.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Mvc.resources.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.csprojResolveAssemblyReference.cache
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.dll
+F:\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.pdb
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe.config
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.rsp
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.exe
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.rsp
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.AppContext.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Collections.Immutable.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe.config
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.rsp
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe.config
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll.config
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.pdb
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.Web.Infrastructure.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.xml
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Razor.resources.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.resources.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Helpers.resources.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Mvc.resources.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.csprojResolveAssemblyReference.cache
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.dll
+E:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.pdb
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.exe.config
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csc.rsp
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.exe
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\csi.rsp
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.AppContext.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Collections.Immutable.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\System.Reflection.Metadata.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.exe.config
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\vbc.rsp
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\roslyn\VBCSCompiler.exe.config
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll.config
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Sistema_MVC_Ticona.pdb
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.Web.Infrastructure.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\EntityFramework.SqlServer.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Razor.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Deployment.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Webpages.Razor.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Helpers.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\System.Web.Mvc.xml
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Razor.resources.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.resources.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Deployment.resources.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Webpages.Razor.resources.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Helpers.resources.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\bin\es\System.Web.Mvc.resources.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.csprojResolveAssemblyReference.cache
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.dll
+F:\Sistema_MVC_WEB2\Sistema_MVC_Ticona\Sistema_MVC_Ticona\obj\Debug\Sistema_MVC_Ticona.pdb

@@ -1,0 +1,55 @@
+﻿@model List<Sistema_MVC_Ticona.Models.Documento>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="page-header">
+    <a href="~/Documento/AgregarEditar/"
+       class="btn btn-default pull-rigth">Nueva Documento</a>
+    Documento
+</h2>
+@using (Html.BeginForm("Index", "Documento", FormMethod.Post, new { criterio = "frm-buscar" }))
+{
+    <div class="text-left">
+        @Html.Label("Buscar: ")
+        @Html.TextBox("Criterio")
+        <button type="submit" class="btn btn-info">Buscar</button>
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width:50px">Id</th>
+            <th style="width:50px">Nombre</th>
+            <th style="width:100px">Descripción</th>
+            <th style="width:70px">Extensión</th>
+            <th style="width:70px">Tamaño</th>
+            <th style="width:70px">Tipo</th>
+            <th style="width:70px">Estado</th>
+            <th style="width:250px"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <th>@(m.documento_id)</th>
+                <th>@(m.nombre)</th>
+                <th>@(m.descripcion)</th>
+                <th>@(m.extension)</th>
+                <th>@(m.tamanio)</th>
+                <th>@(m.tipo)</th>
+                <th>@(m.estado == "A" ? "Activo" : "Inactivo")</th>
+
+                <th style="align-content:center">
+                    <a href="~/Documento/Ver/@m.documento_id" class="btn btn-xs btn-warning">Detalle</a>
+                    <a href="~/Documento/AgregarEditar/@m.documento_id" class="btn btn-xs btn-primary">Modificar</a>
+                    <a href="~/Documento/Eliminar/@m.documento_id" class="btn btn-xs btn-danger"
+                       onclick="return confirm('¿Esta Seguro que desea eliminar el registro?');">Eliminar</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

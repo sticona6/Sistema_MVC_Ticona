@@ -1,0 +1,115 @@
+﻿
+@{
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sistemas MVC</title>
+    <!--Boostrap-->
+    <link href="~/_Assets/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/_Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <!--DataTables-->
+    <link href="~/_Assets/DataTables/datatables.min.css" rel="stylesheet" />
+    
+    <link href="~/_Assets/DataTables/DataTables-1.10.16/css/dataTables.foundation.min.css" rel="stylesheet" />
+
+    <link href="~/_Assets/DataTables/DataTables-1.10.16/css/dataTables.semanticui.min.css" rel="stylesheet" />
+
+</head>
+<body>
+<div>
+    <nav class="nav navbar-default">
+        <div class="container">
+            <div class="collapse navbar-collapse " id="menu">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="~/Categoria/Index">Categoria</a>
+                    </li>
+                    <li>
+                        <a href="~/Documento/Index">Documento</a>
+                    </li>
+                    <li>
+                        <a href="~/Persona/Index">Persona</a>
+                    </li>
+                    <li>
+                        <a href="~/Usuario/Index">Usuario</a>
+                    </li>
+                    <li>
+                        <a href="~/Galeria/Index">Galeria</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1 class="jumbotrom">
+            Sistema MVC
+        </h1>
+        @RenderBody()
+    </div>
+</div>
+    <!--Boostrap-->
+    <script src="~/_Assets/js/bootstrap.min.js"></script>
+    <script src="~/_Assets/js/jquery-3.1.1.min.js"></script>
+    <!--Boostrap-->
+    <script src="~/_Assets/DataTables/datatables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#datatable").DataTable({
+
+                "aLengthMenu": [[5, 10, 25, 50, 100,200, -1], [5, 10, 25, 50, 100,200, "Todos"]],
+                "bDestroy": true,
+                "language": {
+                    "sProcessing": "Procesando...",
+                    "sLengthMenu": "Mostrar _MENU_ registros",
+                    "sZeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ning�n dato disponible en esta tabla",
+                    "sInfo": "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+                    "sInfoEmpty": "Mostrando registros del 0 al 0 de un total de 0 registros",
+                    "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
+                    "sInfoPostFix": "",
+                    "sSearch": "Buscar:",
+                    "sUrl": "",
+                    "sInfoThousands": ",",
+                    "sLoadingRecords": "Cargando...",
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "�ltimo",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                    "oAria": {
+                        "sSortAscending": ": Activar para ordenar la columna de manera ascendente",
+                        "sSortDescending": ": Activar para ordenar la columna de manera descendente"
+                    }
+                }
+            });
+
+            $('#ejemplo2').DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": false,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false,
+                "aLengthMenu": [[5, 10, 25, 50, -1], [5, 10, 25, 50, "Todos"]]
+            });
+
+            $('#scrollvertical').DataTable( {
+                "scrollY":        "200px",
+                "scrollCollapse": true,
+                "paging":         false
+            } );
+
+
+        });
+    </script>
+
+</body>
+</html>

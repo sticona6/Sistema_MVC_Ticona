@@ -1,0 +1,29 @@
+﻿@model Sistema_MVC_Ticona.Models.Categoria
+@{
+    ViewBag.Title = "Ver";
+}
+
+<h2>Ver</h2>
+<ol class="breadcrumb">
+    <li><a href="~/Categoria/Index">Categoria</a></li>
+    <li class="active">@Model.nombre</li>
+</ol>
+
+<div class="panel panel_default">
+    <div class="panel-heading">
+        Informacion de la Categoria
+    </div>
+    <div class="panel-body">
+        <dl class="dl-horizontal">
+            <dt>ID</dt>
+            <dd>@Model.categoria_id</dd>
+            <dt>Nombre</dt>
+            <dd>@Model.nombre</dd>
+            <dt>Descripcion</dt>
+            <dd>@Model.descripcion</dd>
+            <dt>Estado</dt>
+            <dd>@(Model.estado==("A") ? "Activo" : "Inactivo")</dd>
+        </dl>
+    </div>
+</div>
+
